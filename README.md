@@ -38,3 +38,13 @@
 ![image](images/IMG6.png)
 
 ## MODULE 2
+
+1.Setting the stage - Supply chain and facilities
+
+![image](images/IMG8.png)
+
+* This image provides an overview of the semiconductor supply chain. It starts with IC design at the design house using EDA tools and PDKs, followed by wafer fabrication using silicon wafers and various materials. The next step is package assembly and test, where individual ICs are packaged and tested. These packages are then integrated onto PCBs during the board assembly and test phase. Finally, all components come together in the product assembly and test stage, resulting in the final electronic product.
+
+![image](images/IMG9.png)
+
+* A Package Manufacturing Unit carries out the ATMP process: Assembly, Testing, Marking, and Packaging. It can be operated in-house or by OSAT companies like ASE, Amkor, or TATA. The facility includes cleanrooms for processing, testing zones, material storage, and utility areas. For example, Micron’s Sanand facility spans 1.4 million sq. ft. with 500,000 sq. ft. of cleanroom space.

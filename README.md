@@ -4,7 +4,7 @@
 
 [Module 2-From wafer to package: Assembly and Manufacturing Essentials](#Module-2)
 
-[Module 3-Labs: Thermal simulation of semiconductor Packages with ANSYS](#Module-2)
+[Module 3-Labs: Thermal simulation of semiconductor Packages with ANSYS](#Module-3)
 
 ## MODULE 1
 

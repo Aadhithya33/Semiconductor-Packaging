@@ -64,6 +64,30 @@ All processes are conducted in a clean environment to prevent contamination and 
 ![image](images/IMG10.png)
 
 3. Wire Bond Packaging - Die Attach to Molding
+
+* Wire bond packaging involves several key steps inside the cleanroom area:
+
+  * Die attach begins by dispensing epoxy, picking up the chip, and placing it on the Die Attach Film (DAF).
+
+  * The chip is then cured under controlled heat to secure it to the substrate.
+
+  * Wire bonding follows, where thin gold or aluminum wires are used to connect the die to the package substrate.
+
+  * The wire bonding process includes forming a ball bond, loop formation, and a crescent bond using ultrasonic energy and heat.
+
+  * Once bonded, the die and wires are encapsulated using molding, where resin flows over the package for protection.
+
+  * After molding, laser marking is done to label the package with ID or batch numbers.
+
+  * The final step is singulation, where a dicing blade cuts the molded wafer into individual packages.
+
+  * Throughout the process, cleanroom conditions prevent contamination.
+
+  * Precision and alignment are critical to ensure proper electrical connectivity.
+
+  * This method is widely used for its cost-effectiveness and reliability in IC packaging.
+
+![image](images/IMG11.png)
  
 
 

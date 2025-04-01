@@ -51,3 +51,16 @@
 
 2.Wafer pre-preparation - Grinding and Dicing
 
+* Activities inside the clean room area
+   * Activities inside the cleanroom area (ISO class 7) begin with wafer preparation.
+Incoming wafers are placed in carriers and undergo wafer inspection to check for defects.
+Next, wafer front tape lamination is applied to protect the wafer surface.
+Wafer backside grinding is performed to reduce thickness and improve die strength.
+The wafer is then mounted on a tape frame for stability during dicing.
+Two-step wafer dicing is done using laser grooving followed by blade dicing.
+These steps ensure clean and precise die separation.
+All processes are conducted in a clean environment to prevent contamination and ensure quality.
+
+![image](images/IMG10.png)
+
+

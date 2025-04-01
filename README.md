@@ -4,6 +4,8 @@
 
 [Module 2-From wafer to package: Assembly and Manufacturing Essentials](#Module-2)
 
+[Module 3-Labs: Thermal simulation of semiconductor Packages with ANSYS](#Module-2)
+
 ## MODULE 1
 
 1.Why semiconductor packaging required?
@@ -136,6 +138,8 @@ All processes are conducted in a clean environment to prevent contamination and 
 
 
  ![image](images/IMG13.png)
+
+ ## MODULE 3
  
 
 

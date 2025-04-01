@@ -118,7 +118,24 @@ All processes are conducted in a clean environment to prevent contamination and 
 
 5. Wafer level packaging and conclusion
  
+* Wafer Level Packaging (WLP) process involves the following steps:
 
+   * Reconstitution Process: Known good dies are picked and placed on a temporary carrier.
+
+   * Molding is done to form a solid base, creating a reconstituted wafer after releasing the carrier.
+
+   * RDL (Redistribution Layer) Preparation: Multiple layers of dielectric and metal are coated and patterned to reroute I/O connections.
+
+   * Solder Balls are attached on top of the RDL for external connectivity.
+
+   * The wafer undergoes laser marking for identification and singulation to separate individual packages.
+
+   * The final product is a Fan-Out Wafer Level Package, which offers a compact size and high performance.
+
+   * WLP enables package miniaturization and is ideal for mobile and high-density applications.
+
+
+ ![image](images/IMG13.png)
  
 
 

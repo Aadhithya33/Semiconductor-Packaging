@@ -91,6 +91,30 @@ All processes are conducted in a clean environment to prevent contamination and 
 
 4. Flip Chip Assembly - Bump Formation And Underfill
 
+* Flip Chip packaging process
+
+  * Bump Formation: Solder bumps are formed on the silicon die.
+
+  * Chip Flipping: The chip is flipped so the bumps face downward.
+
+  * Flux Dispensing: Flux is applied on the bond pads of the package substrate.
+
+  * Chip Placement: The bumped chip is placed onto the substrate.
+
+  * Solder Reflow: The assembly is heated to reflow the solder, creating electrical and mechanical connections.
+
+  * Flux Cleansing: Residual flux is cleaned using solvent spray.
+
+  * Underfill Dispensing: Underfill material is added between the chip and substrate to enhance mechanical strength.
+
+  * Underfill Curing: The underfill is cured with heat to solidify it.
+
+  * Molding: The package is encapsulated with a protective mold compound.
+
+  * Marking: Laser marking is done for identification and traceability.
+
+  ![image](images/IMG12.png)
+
  
 
 

@@ -63,4 +63,7 @@ All processes are conducted in a clean environment to prevent contamination and 
 
 ![image](images/IMG10.png)
 
+3. Wire Bond Packaging - Die Attach to Molding
+ 
+
 

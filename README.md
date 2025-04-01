@@ -2,6 +2,8 @@
 
 [Module 1-Packaging evolution: From Basics to 3D Integration](#Module-1)
 
+[Module 2-From wafer to package: Assembly and Manufacturing Essentials](#Module-2)
+
 ## MODULE 1
 
 1.Why semiconductor packaging required?
@@ -34,3 +36,5 @@
 * Semiconductor packaging ranges from simple single-chip packages like PBGA and FC-CSP to advanced multichip configurations such as 2.5D and 3D with interposers. These packages sit on a carrier substrate and are finally mounted onto a PCB. Each package type varies in terms of integration, performance, and application suitability. For example, DIP is low-cost and durable but has low pin count, while CoWoS offers high I/O and is used in AI GPUs. Higher-end packages support better performance, power efficiency, and miniaturization but may come with reliability and cost trade-offs. Choosing the right package depends on the target application, system complexity, and cost-performance balance.
 ![image](images/IMG7.png)
 ![image](images/IMG6.png)
+
+## MODULE 2

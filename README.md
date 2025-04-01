@@ -88,6 +88,9 @@ All processes are conducted in a clean environment to prevent contamination and 
   * This method is widely used for its cost-effectiveness and reliability in IC packaging.
 
 ![image](images/IMG11.png)
+
+4. Flip Chip Assembly - Bump Formation And Underfill
+
  
 
 

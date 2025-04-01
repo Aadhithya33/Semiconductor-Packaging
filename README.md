@@ -48,3 +48,6 @@
 ![image](images/IMG9.png)
 
 * A Package Manufacturing Unit carries out the ATMP process: Assembly, Testing, Marking, and Packaging. It can be operated in-house or by OSAT companies like ASE, Amkor, or TATA. The facility includes cleanrooms for processing, testing zones, material storage, and utility areas. For example, Micron’s Sanand facility spans 1.4 million sq. ft. with 500,000 sq. ft. of cleanroom space.
+
+2.Wafer pre-preparation - Grinding and Dicing
+

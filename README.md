@@ -234,3 +234,52 @@ These stages ensure only fully functional and reliable chips move forward to sys
 * AOST ensures only electrically sound packages proceed to the next stages.
 
 ![image](images/imgc.png)
+
+4. Burn-in Test
+
+* Objective: To test components under elevated stress (temperature, voltage, power cycling) to catch early failures.
+
+* The main goal is to detect "Infant Mortality" failures before the product reaches customers.
+
+* Devices are placed on Burn-in boards and tested inside Burn-in systems (ovens).
+
+* The process uses high voltage and high temperature to accelerate failures.
+
+* Testing continues until the initial failure rate flattens, ensuring weak units are filtered out.
+
+* Common defects detected include dielectric breakdown, metallization failures, and electromigration.
+
+* The test helps in improving overall reliability by removing faulty components.
+
+* The burn-in test may reduce the overall lifespan slightly due to stress exposure.
+
+* The failure curve shows a drop in early failures, followed by a stable useful life.
+
+* Burn-in is critical for high-reliability applications like aerospace, automotive, and servers.
+
+![image](images/imgd.png)
+
+5.Final test
+
+* The Final Test is a temperature corner test to verify if the packaged product meets all electrical specifications.
+Parts are tested using ATE (Automated Test Equipment) with temperature-controlled handlers, not ovens.
+A Hot Test checks functionality at elevated temperatures per product specs.
+A Cold Test ensures the product performs correctly at low temperatures.
+Both tests confirm reliability and electrical behavior across operating extremes.
+This ensures only fully qualified chips proceed to shipment or system integration.
+
+![image](images/imge.png)
+
+6. ATE
+
+* Automatic Test Equipment (ATE) automates the testing of semiconductor devices by sending test patterns to the Device Under Test (DUT).
+ It performs three major test types:
+
+   * Parametric Tests measure voltage or current to ensure circuit parameters are within spec.
+
+  * Functional Tests check the device's behavior under normal operating conditions.
+
+   * Speed Tests verify timing performance as per datasheet, and sort parts accordingly.Testing efficiency is evaluated by yield, test time, and test coverage.Handlers and robotic arms like COBOT help automate part placement and handling during tests.
+
+
+![image](images/imgf.png)

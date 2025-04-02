@@ -145,7 +145,41 @@ All processes are conducted in a clean environment to prevent contamination and 
    
  * Below steps explain how to set up the ANSYS tool to perform thermal simulation of Flip-Chip BGA package
 
- ![image](images/Screenshot(1342).png)
+ ![image](images/Screenshot1.png)
+ ![image](images/Screenshot2.png)
+ ![image](images/Screenshot3.png)
+ ![image](images/Screenshot4.png)
+ ![image](images/Screenshot5.png)
+ ![image](images/Screenshot6.png)
+ ![image](images/Screenshot7.png)
+ ![image](images/Screenshot8.png)
+ ![image](images/Screenshot9.png)
+ ![image](images/Screenshot10.png)
+ ![image](images/Screenshot11.png)
+ ![image](images/Screenshot12.png)
+ ![image](images/Screenshot13.png)
+ ![image](images/Screenshot14.png)
+ ![image](images/Screenshot15.png)
+ ![image](images/Screenshot16.png)
+ ![image](images/Screenshot17.png)
+ ![image](images/Screenshot18.png
+ ![image](images/Screenshot19.png)
+ ![image](images/Screenshot20.png)
+ ![image](images/Screenshot21.png)
+ ![image](images/Screenshot22.png)
+ ![image](images/Screenshot23.png)
+ ![image](images/Screenshot24.png)
+ ![image](images/Screenshot25.png)
+ ![image](images/Screenshot26.png)
+ ![image](images/Screenshot27.png)
+ ![image](images/Screenshot28.png)
+ ![image](images/Screenshot29.png)
+ ![image](images/Screenshot30.png)
+ ![image](images/Screenshot31.png)
+ ![image](images/Screenshot32.png)
+ ![image](images/Screenshot33.png)
+ ![image](images/Screenshot34.png)
+
  
  
 

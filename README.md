@@ -140,6 +140,12 @@ All processes are conducted in a clean environment to prevent contamination and 
  ![image](images/IMG13.png)
 
  ## MODULE 3
+
+ * Thermal simulation of Flip-Chip BGA Package.
+   
+ * Below steps explain how to set up the ANSYS tool to perform thermal simulation of Flip-Chip BGA package
+
+ ![image](images/IMG13.png)
  
 
 

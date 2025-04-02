@@ -306,6 +306,30 @@ This ensures only fully qualified chips proceed to shipment or system integratio
 
 * Each step was visualized and validated using AEDT’s 3D simulation environment, and I took screenshots at key stages to document the design progression.
 
-
+* Below steps explain how to create wire bond packaging using ANSYS tool
 
 ![image](images/Screenshota.png)
+![image](images/Screenshotb.png)
+![image](images/Screenshotc.png)
+![image](images/Screenshotd.png)
+![image](images/Screenshote.png)
+![image](images/Screenshotf.png)
+![image](images/Screenshotg.png)
+![image](images/Screenshoth.png)
+![image](images/Screenshoti.png)
+![image](images/Screenshotj.png)
+![image](images/Screenshotk.png)
+![image](images/Screenshotl.png)
+![image](images/Screenshotm.png)
+![image](images/Screenshotn.png)
+![image](images/Screenshoto.png)
+![image](images/Screenshotp.png)
+![image](images/Screenshotq.png)
+![image](images/Screenshotr.png)
+![image](images/Screenshots.png)
+![image](images/Screenshott.png)
+![image](images/Screenshotu.png)
+![image](images/Screenshotv.png)
+![image](images/Screenshotx.png)
+
+

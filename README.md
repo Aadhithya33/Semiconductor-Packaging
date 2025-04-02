@@ -183,6 +183,54 @@ All processes are conducted in a clean environment to prevent contamination and 
  ![image](images/Screenshot34.png)
 
  ## MODULE 4
+
+1. Testing at different stages
+
+
+* Testing in semiconductor manufacturing happens at multiple stages to ensure functionality and quality.
+It starts at the foundry with wafer probe testing after front-end manufacturing.
+Next, wafer sorting identifies good dies for packaging.
+At the OSAT stage, the chip goes through package manufacturing followed by package-level testing.
+Finally, System Level Testing (SLT) verifies the chip in real-world usage scenarios.
+Throughout all stages, diagnosis and failure analysis help improve process development and yield.
+
+ ![image](images/imga.png)
+
+
+2. Package testing
+
+
+* Package Testing begins after the packaging process is completed in a cleanroom (ISO class 6 & 7), where steps like die bonding and encapsulation occur.
+After singulation, the packages are placed in trays and loaded into sockets or boards for testing.
+The first step is AOST (Assembly Open and Short Test), which checks for basic connectivity issues.
+Next is the Burn-in stage, where packages are exposed to thermal and voltage stress to screen out early failures.
+Following that is the Final Test, which includes cold and hot tests to ensure the device meets functional, parametric, and reliability specifications.
+This test confirms the performance across various operating temperatures.
+Throughout, inspections play an essential role in quality control.
+These stages ensure only fully functional and reliable chips move forward to system-level integration.
  
+![image](images/imgb.png)
 
+3. Assembly Open and Short test(AOST) - Functionality
 
+* AOST is a quick electrical test to detect shorts or opens on package leads or balls.
+
+* It is performed right after Trim and Form (for leadframe packages) or Singulation (for BGA packages).
+
+* The main goal is to catch major electrical failures before the product leaves assembly.
+
+* AOST includes vision inspection to detect damaged, missing, or misaligned leads or solder balls.
+
+* It also checks for common issues like Head on Pillow (HoP), bridging, and non-wet opens (NWO).
+
+* Die cracks and package warpage are detected visually or through inspection tools.
+
+* The Product Grade Sort (PGSRT) system categorizes the devices into Best (1), Better (2/3), and Scrap (4).
+
+* Testing is done using automated handlers and probes to ensure accuracy and speed.
+
+* It plays a crucial role in yield improvement and quality control.
+
+* AOST ensures only electrically sound packages proceed to the next stages.
+
+![image](images/imgc.png)

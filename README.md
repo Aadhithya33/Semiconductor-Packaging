@@ -6,6 +6,8 @@
 
 [Module 3-Labs: Thermal simulation of semiconductor Packages with ANSYS](#Module-3)
 
+[Module 4-Ensuring Packaging Reliability: Testing and Performance Validation](#Module-4)
+
 ## MODULE 1
 
 1.Why semiconductor packaging required?
@@ -180,7 +182,7 @@ All processes are conducted in a clean environment to prevent contamination and 
  ![image](images/Screenshot33.png)
  ![image](images/Screenshot34.png)
 
- 
+ ## MODULE 4
  
 
 

@@ -8,6 +8,8 @@
 
 [Module 4-Ensuring Packaging Reliability: Testing and Performance Validation](#Module-4)
 
+[Module 5-Package Design and Modeling: Building a semiconductor package from scratch](#Module-5)
+
 ## MODULE 1
 
 1.Why semiconductor packaging required?
@@ -283,3 +285,6 @@ This ensures only fully qualified chips proceed to shipment or system integratio
 
 
 ![image](images/imgf.png)
+
+
+## MODULE 5

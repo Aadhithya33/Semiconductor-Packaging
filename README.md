@@ -1,5 +1,7 @@
 # SEMICONDUCTOR PACKAGING
 
+![image](images/pack.png)
+
 [Module 1-Packaging evolution: From Basics to 3D Integration](#Module-1)
 
 [Module 2-From wafer to package: Assembly and Manufacturing Essentials](#Module-2)
